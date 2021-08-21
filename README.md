@@ -1,7 +1,7 @@
 # todoey_flutter
 
 A Flutter project that allow de user to have a ToDo List, add, delente and chek tasks.
-The app was developed using provider state mamagement.
+The app was developed using provider state management.
 
 ## Getting Started
 
